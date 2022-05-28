@@ -19,7 +19,7 @@ let edumonic3 = {
     city: "Tangerang",
 }
 
-let restaurant = new Set(["Bento","Sushi","Pancake","Eggy","Tempura","Bento","Eggy","Padang","Tteok","Sushi","Sushi"]);
+let restaurant = ["Bento","Sushi","Pancake","Tempura","Bento","Eggy","Padang","Tteok"];
 //endmonic
 
 //wendy
@@ -46,7 +46,7 @@ let eduwendy4 = {
     city: "Tangerang",
 }
 
-let favwendy = new Set(["Tempura","Bento","Sushi","Pancake","Padang","Katsu","Geprek","Pancake","Eggy"])
+let favwendy = ["Tempura","Bento","Sushi","Pancake","Padang","Katsu","Geprek","Eggy"];
 //endwendy
 
 const firstUser = {
