@@ -19,7 +19,7 @@ let edumonic3 = {
     city: "Tangerang",
 }
 
-let restaurant = ["Bento","Sushi","Pancake","Tempura","Bento","Eggy","Padang","Tteok"];
+let restaurant = ["Bento","Sushi","Pancake","Tempura","Eggy","Padang","Tteok"];
 //endmonic
 
 //wendy
