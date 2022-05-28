@@ -54,7 +54,7 @@ const firstUser = {
     gender: "Female",
     age : 17,
     email: "monica@dingdong.com",
-    favoriteColor: new Set(["Yellow", "Pink", "White", "Purple"]),
+    favoriteColor: ["Yellow", "Pink", "White", "Purple"],
     isHavePet: "Yes",
     education: [edumonic1,edumonic2,edumonic3],
     favoriteRestaurant: restaurant
@@ -64,11 +64,10 @@ const secondUser = {
     gender: "Male",
     age: "23",
     email: "wendy@dingdong.com",
-    favoriteColor: new Set(["Blue", "Black", "Grey"]),
+    favoriteColor: ["Blue", "Black", "Grey"],
     isHavePet: "No",
     education: [eduwendy1,eduwendy2,eduwendy3,eduwendy4],
     favoriteRestaurant:favwendy
-
 };
 
 // TODO: Masukkan hasil akhir dari kedua user di sini
